@@ -1,0 +1,15 @@
+artifact_uri: file:///home/darshini/MLFlow/mlruns/0/e7da1793f6634bb7bab39b6ae3c41d24/artifacts
+end_time: 1705928951788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7da1793f6634bb7bab39b6ae3c41d24
+run_name: smiling-mole-710
+run_uuid: e7da1793f6634bb7bab39b6ae3c41d24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705928946034
+status: 3
+tags: []
+user_id: darshini
